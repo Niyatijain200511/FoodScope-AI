@@ -49,7 +49,7 @@ if not st.session_state.user_name or not st.session_state.user_phone:
         with st.form("signin_form"):
             si_phone = st.text_input(
                 "WhatsApp Number",
-                placeholder="e.g. 918871032753",
+                placeholder="Enter WhatsApp number with country code",
                 key="si_phone"
             )
             si_password = st.text_input(
