@@ -59,7 +59,23 @@ FoodScope AI is an AI-powered nutrition analyzer that identifies food from a pho
 
 ## 📸 Screenshots
 
-![FoodScope AI](screenshot.png)
+### 🏠 Home Screen
+![FoodScope AI Home](foodscope-home.png.png)
+
+### 🔐 Login Screen
+![FoodScope AI Login](foodscope-login.png.png)
+
+### 🍎 Food Analysis
+![Food Analysis](foodscope-analysis.png.png)
+
+### 💬 AI Chat
+![FoodScope AI Chat](foodscope-chat.png.png)
+
+### 📋 Summary
+![FoodScope AI Summary](foodscope-summary.png.png)
+
+### 📱 WhatsApp Sharing
+![WhatsApp Sharing](foodscope-wp.png.jpeg)
 
 ## 📁 Project Structure
 
