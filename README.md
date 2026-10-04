@@ -59,6 +59,15 @@ FoodScope AI is an AI-powered nutrition analyzer that identifies food from a pho
 
 ## 📸 Screenshots
 
-*(Add a screenshot or two here once your app looks final — see instructions below)*
+![FoodScope AI](screenshot.png)
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```text
+FoodScope-AI/
+│
+├── app.py
+├── style.css
+├── requirements.txt
+├── README.md
+└── .gitignore
