@@ -29,7 +29,7 @@ FoodScope AI is an AI-powered nutrition analyzer that identifies food from a pho
 
 1. Clone this repository
 ```bash
-   git clone https://github.com/[YOUR_USERNAME]/FoodScope-AI.git
+   git clone https://github.com/Niyatijain200511/FoodScope-AI.git
    cd FoodScope-AI
 ```
 
